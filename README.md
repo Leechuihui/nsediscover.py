@@ -9,7 +9,7 @@ update by Leechuihui 2026525
 
 ## Features
 
-Auto-detect** NSE scripts directory (`nmap --datadir`, common paths, or `NSE_SCRIPTS_DIR`)
+Auto-detect NSE scripts directory (`nmap --datadir`, common paths, or `NSE_SCRIPTS_DIR`)
 Search by script name, author, description, or keywords
 Filter by NSE category
 Rich details: description, author, license, categories, `--@usage`, example `nmap` commands
@@ -24,5 +24,5 @@ Tkinter (usually included with Python; on Debian/Ubuntu: `python3-tk`)
 Installation
 
 bash
-git clone https://github.com/Leechuihui/nsediscover.py.git
-cd nsediscover
+--git clone https://github.com/Leechuihui/nsediscover.py.git
+--cd nsediscover
