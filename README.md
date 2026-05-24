@@ -24,5 +24,6 @@ Tkinter (usually included with Python; on Debian/Ubuntu: `python3-tk`)
 Installation
 
 bash
-#git clone https://github.com/Leechuihui/nsediscover.py.git
-#cd nsediscover
+  git clone https://github.com/Leechuihui/nsediscover.py.git
+
+  cd nsediscover
