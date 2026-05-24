@@ -7,7 +7,7 @@ Modernized from the original Kali 2.0 Tkinter
 fix by [Hacker Fantastic](https://github.com/HackerFantastic).
 update by Leechuihui 2026525
 
-## Features
+Features
 
 Auto-detect NSE scripts directory (`nmap --datadir`, common paths, or `NSE_SCRIPTS_DIR`)
 Search by script name, author, description, or keywords
@@ -24,5 +24,5 @@ Tkinter (usually included with Python; on Debian/Ubuntu: `python3-tk`)
 Installation
 
 bash
---git clone https://github.com/Leechuihui/nsediscover.py.git
---cd nsediscover
+#git clone https://github.com/Leechuihui/nsediscover.py.git
+#cd nsediscover
