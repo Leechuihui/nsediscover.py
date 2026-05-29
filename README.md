@@ -7,6 +7,8 @@ Modernized from the original Kali 2.0 Tkinter
 fix by [Hacker Fantastic](https://github.com/HackerFantastic).
 update by Leechuihui 2026525
 
+python3 nse_discoverer.py
+
 Features
 
 Auto-detect NSE scripts directory (`nmap --datadir`, common paths, or `NSE_SCRIPTS_DIR`)
