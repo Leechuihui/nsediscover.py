@@ -1,4 +1,10 @@
- NSE Script Discoverer
+# 🔍 NSE Script Discoverer
+
+[![Python](https://img.shields.io/badge/Python-3-3fb950?logo=python&logoColor=white)](https://python.org)
+[![Nmap NSE](https://img.shields.io/badge/Built_for-Nmap_NSE-58a6ff?logo=nmap&logoColor=white)](https://nmap.org/book/nse.html)
+[![GUI](https://img.shields.io/badge/UI-Tkinter-d29922)](#)
+
+
 
 A desktop GUI tool to browse and inspect installed [Nmap NSE](https://nmap.org/book/nse.html) scripts. Select a script to view its description, categories, usage notes, example commands, and optional output from `nmap --script-help`.
 
