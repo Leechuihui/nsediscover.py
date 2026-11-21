@@ -1,0 +1,1 @@
+name: CI\n\non:\n  push:\n    branches: [main]\n  pull_request:\n    branches: [main]\n\njobs:\n  lint-test:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n
